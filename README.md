@@ -8,3 +8,4 @@ Modified some changes to shell script again
 3.Sub Topics
 4.Categories
 5.Sub Categories
+6.commit the changes
